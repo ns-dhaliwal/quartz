@@ -24,3 +24,21 @@ If you prefer browsing the contents of this site through a list instead of a gra
 - 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
 - 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
 - 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+
+### Contents:
+[[notes/updating]]
+[[notes/troubleshooting]]
+[[notes/showcase]]
+[[notes/setup]]
+[[notes/preview changes]]
+[[notes/philosophy]]
+[[notes/obsidian]]
+[[notes/ignore notes]]
+[[notes/hosting]]
+[[notes/editing]]
+[[notes/custom Domain]]
+[[notes/config]]
+[[notes/CJK + Latex Support (测试)]]
+
+![[notes/images/microsoft_logo.jpg]]
+
